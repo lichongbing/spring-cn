@@ -7,10 +7,6 @@
 
 该项目为 Spring Framework文档翻译项目，基于 [Spring 5.1.3](https://spring.io/projects/spring-framework) 的官方文档进行翻译。
 
-## 阅读方式
-
-[Github](https://github.com/DocsHome/spring-docs/blob/master/SUMMARY.md) | [Gitbook](https://www.gitbook.com/book/docshome/spring-docs)
-
 ## 项目状态
 
 计划中……
