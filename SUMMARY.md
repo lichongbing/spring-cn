@@ -9,7 +9,6 @@
   * [1.Spring的远程处理和web服务](ji-cheng/1.spring-de-yuan-cheng-chu-li-he-web-fu-wu.md)
 * [Web Servlet](web-servlet.md)
 * [数据访问](shu-ju-fang-wen.md)
-* [Web Servlet](web-servlet-1.md)
 * [Web Reactive 框架](web-reactive-kuang-jia.md)
 * [测试](ce-shi.md)
 
